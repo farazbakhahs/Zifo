@@ -787,7 +787,6 @@ a{color:inherit;text-decoration:none}
     <div class="nav-it" data-pg="errors"><i class="ti ti-alert-triangle"></i> خطاها</div>
     <div class="nav-it" data-pg="testws"><i class="ti ti-wifi"></i> تست WebSocket</div>
     <div class="nav-it" data-pg="settings"><i class="ti ti-settings"></i> تنظیمات</div>
-    <div class="nav-it" data-pg="support"><i class="ti ti-headset"></i> پشتیبانی</div>
   </div>
   <div class="sb-foot">
     <button class="theme-btn" onclick="toggleTheme()"><i class="ti ti-moon" id="theme-icon"></i> <span id="theme-label">تم روشن</span></button>
@@ -834,8 +833,8 @@ a{color:inherit;text-decoration:none}
     </div>
   </div>
   <div class="dash-footer">
-    <span class="df-text">X4G v9.8 · Railway</span>
-    <a class="df-link" href="https://t.me/X4GHUB" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/X4GHUB</a>
+    <span class="df-text">Zifo v9.8 · Railway</span>
+    <a class="df-link" href="" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/X4GHUB</a>
     
   </div>
 </section>
@@ -2110,8 +2109,7 @@ html,body{{min-height:100%;background:var(--bg);font-family:var(--serif);color:v
 <div class="wrap">
   <div class="top">
     <div class="brand">
-      <div class="brand-img"><img src="data:image/png;base64,{LOGO_B64}" alt="X4G"></div>
-      <div><div class="brand-name">X4G</div><div class="brand-sub">v9.8</div></div>
+      <div><div class="brand-name">Zifo</div><div class="brand-sub">v9.8</div></div>
     </div>
     <div class="top-actions">
       <button class="icon-btn" id="theme-toggle" onclick="toggleTheme()" title="تغییر تم"><i class="ti ti-sun" id="theme-icon"></i></button>
