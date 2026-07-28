@@ -60,8 +60,7 @@ input:focus+.ic{color:var(--accent)}
 <div class="wrap">
   <div class="card">
     <div class="brand">
-      <div class="brand-img"><img src="data:image/png;base64,__LOGO_B64__" alt="X4G"></div>
-      <div><div class="brand-name">X4G</div><div class="brand-sub">v9.8</div></div>
+      <div><div class="brand-name">Zifo</div><div class="brand-sub">v9.8</div></div>
     </div>
     <h1>ورود به پنل</h1>
     <p class="sub">رمز عبور را برای دسترسی به داشبورد وارد کنید</p>
@@ -76,7 +75,7 @@ input:focus+.ic{color:var(--accent)}
       </div>
       <button class="btn" type="submit" id="btn"><i class="ti ti-login-2"></i> ورود به داشبورد</button>
     </form>
-    <div class="footer">پشتیبانی <a href="https://t.me/X4GHUB" target="_blank"><i class="ti ti-brand-telegram"></i>@X4GHUB</a></div>
+    <div class="footer"> <a href="" target="_blank"><i class="ti ti-brand-telegram"></i>@X4GHUB</a></div>
   </div>
 </div>
 <script>
