@@ -757,10 +757,7 @@ a{color:inherit;text-decoration:none}
   </div>
 </div>
 <div class="mob-top">
-  <div class="ml">
-    <div class="mob-logo"><img src="data:image/png;base64,__LOGO_B64__" alt="X4G"></div>
-    <span class="mob-title">Zifo</span>
-  </div>
+
   <div class="mob-right">
     <button class="theme-mob" id="theme-mob-btn" onclick="toggleTheme()"><i class="ti ti-sun" id="theme-mob-icon"></i></button>
     <button class="menu-btn" id="open-sb"><i class="ti ti-menu-2"></i></button>
@@ -769,10 +766,7 @@ a{color:inherit;text-decoration:none}
 <div class="overlay" id="overlay"></div>
 <aside class="sidebar" id="sb">
   <button class="sb-close" id="close-sb"><i class="ti ti-x"></i></button>
-  <div class="logo">
-    <div class="logo-img"><img src="data:image/png;base64,__LOGO_B64__" alt="Zifo"></div>
-    <div><div class="logo-name">Zifo</div><div class="logo-sub">v9.8</div></div>
-  </div>
+
   <div class="nav-wrap">
     <div class="nav-sec">پنل</div>
     <div class="nav-it on" data-pg="overview"><i class="ti ti-layout-dashboard"></i> داشبورد</div>
