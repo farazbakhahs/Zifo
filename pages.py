@@ -770,7 +770,7 @@ a{color:inherit;text-decoration:none}
 <aside class="sidebar" id="sb">
   <button class="sb-close" id="close-sb"><i class="ti ti-x"></i></button>
   <div class="logo">
-    <div class="logo-img"><img src="data:image/png;base64,__LOGO_B64__" alt="X4G"></div>
+    <div class="logo-img"><img src="data:image/png;base64,__LOGO_B64__" alt="Zifo"></div>
     <div><div class="logo-name">Zifo</div><div class="logo-sub">v9.8</div></div>
   </div>
   <div class="nav-wrap">
@@ -2118,7 +2118,7 @@ html,body{{min-height:100%;background:var(--bg);font-family:var(--serif);color:v
   <div id="root">
     <div class="empty-state"><i class="ti ti-loader-2" style="animation:spin 1s linear infinite"></i>در حال بارگذاری...</div>
   </div>
-  <div class="footer">پشتیبانی: <a href="https://t.me/X4GHUB" target="_blank">@X4GHUB</a> · X4G v9.8</div>
+  <div class="footer">پشتیبانی: <a href="https://t.me/X4GHUB" target="_blank">@X4GHUB</a> · Zifo v9.8</div>
 </div>
 <script>
 const UUID_KEY='{uuid_key}';
