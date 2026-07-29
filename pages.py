@@ -75,7 +75,7 @@ input:focus+.ic{color:var(--accent)}
       </div>
       <button class="btn" type="submit" id="btn"><i class="ti ti-login-2"></i> ورود به داشبورد</button>
     </form>
-    <div class="footer"> <a href="" target="_blank"><i class="ti ti-brand-telegram"></i>@X4GHUB</a></div>
+    <div class="footer"> <a href="" target="_blank"><i class="ti ti-brand-telegram"></i>@Zifo_01</a></div>
   </div>
 </div>
 <script>
@@ -759,7 +759,7 @@ a{color:inherit;text-decoration:none}
 <div class="mob-top">
   <div class="ml">
     <div class="mob-logo"><img src="data:image/png;base64,__LOGO_B64__" alt="X4G"></div>
-    <span class="mob-title">X4G</span>
+    <span class="mob-title">Zifo</span>
   </div>
   <div class="mob-right">
     <button class="theme-mob" id="theme-mob-btn" onclick="toggleTheme()"><i class="ti ti-sun" id="theme-mob-icon"></i></button>
@@ -771,7 +771,7 @@ a{color:inherit;text-decoration:none}
   <button class="sb-close" id="close-sb"><i class="ti ti-x"></i></button>
   <div class="logo">
     <div class="logo-img"><img src="data:image/png;base64,__LOGO_B64__" alt="X4G"></div>
-    <div><div class="logo-name">X4G</div><div class="logo-sub">v9.8</div></div>
+    <div><div class="logo-name">Zifo</div><div class="logo-sub">v9.8</div></div>
   </div>
   <div class="nav-wrap">
     <div class="nav-sec">پنل</div>
@@ -833,7 +833,7 @@ a{color:inherit;text-decoration:none}
   </div>
   <div class="dash-footer">
     <span class="df-text">Zifo v9.8 · Railway</span>
-    <a class="df-link" href="" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/X4GHUB</a>
+    <a class="df-link" href="" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/Zifo_01</a>
     
   </div>
 </section>
