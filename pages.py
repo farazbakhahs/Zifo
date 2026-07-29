@@ -827,7 +827,7 @@ a{color:inherit;text-decoration:none}
   </div>
   <div class="dash-footer">
     <span class="df-text">Zifo v9.8 · Railway</span>
-    <a class="df-link" href="" target="_blank"><i class="ti ti-brand-telegram"></i> t.me/Zifo_01</a>
+
     
   </div>
 </section>
